@@ -1,3 +1,6 @@
+#logname{
+    font-size: 30px;
+}
 .bgblack{
     background-color: black;
 }
@@ -6,4 +9,8 @@
 }
 #ht{
     font-size: 40px;
+}
+#dclass{
+    font-weight: 700;
+    background-color: #fbbb25;
 }
