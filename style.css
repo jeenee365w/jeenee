@@ -1,7 +1,9 @@
-
 .bgblack{
     background-color: black;
 }
-#hero1{
-    height: 80vh;
+#herotext{
+    font-size: 70px;
+}
+#ht{
+    font-size: 40px;
 }
